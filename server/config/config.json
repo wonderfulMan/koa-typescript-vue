@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "guohao19940719",
+    "database": "shop_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+8:00"
+  },
+  "test": {
+    "username": "root",
+    "password": "guohao19940719",
+    "database": "shop_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+8:00"
+  },
+  "production": {
+    "username": "root",
+    "password": "guohao19940719",
+    "database": "shop_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+8:00"
+  }
+}
